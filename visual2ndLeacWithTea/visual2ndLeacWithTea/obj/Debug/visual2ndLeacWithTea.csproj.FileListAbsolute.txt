@@ -1,0 +1,11 @@
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.csproj.AssemblyReference.cache
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.Form1.resources
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.Properties.Resources.resources
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.csproj.GenerateResource.cache
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.csproj.CoreCompileInputs.cache
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\bin\Debug\visual2ndLeacWithTea.exe.config
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\bin\Debug\visual2ndLeacWithTea.exe
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\bin\Debug\visual2ndLeacWithTea.pdb
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.exe
+C:\Users\lab502\Desktop\visual2ndLeacWithTea\visual2ndLeacWithTea\obj\Debug\visual2ndLeacWithTea.pdb
